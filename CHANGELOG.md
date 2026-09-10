@@ -1,5 +1,38 @@
 # Changelog
 
+## [5.0.1] - 2026-09-04
+
+### Changed
+
+- #264 [Pin GitHub Actions to full-length commit SHAs](https://github.com/Azure/aks-set-context/pull/264)
+- #258 [Enforce 7-day dependency freshness controls](https://github.com/Azure/aks-set-context/pull/258)
+- #252 [Reduce dependabot frequency to monthly with 1-week cooldown](https://github.com/Azure/aks-set-context/pull/252)
+- #241 [Pin release workflow to SHA for supply chain safety](https://github.com/Azure/aks-set-context/pull/241)
+- #253 [Bump prettier to 3.9 and reformat src/run.ts](https://github.com/Azure/aks-set-context/pull/253)
+- #267 [Bump actions/stale from 10.4.0 to 11.0.0](https://github.com/Azure/aks-set-context/pull/267)
+- #266 [Bump the minor-and-patch group with 4 updates](https://github.com/Azure/aks-set-context/pull/266)
+- #265 [Bump the minor-and-patch group across 1 directory with 2 updates](https://github.com/Azure/aks-set-context/pull/265)
+- #262 [Bump @types/node in the minor-and-patch group](https://github.com/Azure/aks-set-context/pull/262)
+- #255 [Bump prettier from 3.9.4 to 3.9.5 in the actions group](https://github.com/Azure/aks-set-context/pull/255)
+- #254 [Bump the actions group across 1 directory with 4 updates](https://github.com/Azure/aks-set-context/pull/254)
+- #248 [Bump undici from 6.24.1 to 6.27.0](https://github.com/Azure/aks-set-context/pull/248)
+- #247 [Bump actions/checkout in /.github/workflows in the actions group](https://github.com/Azure/aks-set-context/pull/247)
+- #246 [Bump @types/node from 25.9.3 to 26.0.0 in the actions group](https://github.com/Azure/aks-set-context/pull/246)
+- #245 [Bump the actions group with 4 updates](https://github.com/Azure/aks-set-context/pull/245)
+- #244 [Bump esbuild from 0.28.0 to 0.28.1](https://github.com/Azure/aks-set-context/pull/244)
+- #243 [Bump @types/node from 25.9.1 to 25.9.2 in the actions group](https://github.com/Azure/aks-set-context/pull/243)
+- #242 [Bump the actions group with 2 updates](https://github.com/Azure/aks-set-context/pull/242)
+- #240 [Bump the actions group with 3 updates](https://github.com/Azure/aks-set-context/pull/240)
+- #239 [Bump @types/node from 25.7.0 to 25.9.0 in the actions group](https://github.com/Azure/aks-set-context/pull/239)
+- #238 [Bump the actions group with 3 updates](https://github.com/Azure/aks-set-context/pull/238)
+- #237 [Bump the actions group with 3 updates](https://github.com/Azure/aks-set-context/pull/237)
+- #236 [Bump actions/setup-node in /.github/workflows in the actions group](https://github.com/Azure/aks-set-context/pull/236)
+- #235 [Bump the actions group with 2 updates](https://github.com/Azure/aks-set-context/pull/235)
+- #234 [Bump the actions group with 4 updates](https://github.com/Azure/aks-set-context/pull/234)
+- #233 [Bump the actions group with 2 updates](https://github.com/Azure/aks-set-context/pull/233)
+- #232 [Bump vite from 8.0.3 to 8.0.5](https://github.com/Azure/aks-set-context/pull/232)
+- #231 [Bump the actions group with 2 updates](https://github.com/Azure/aks-set-context/pull/231)
+
 ## [5.0.0] - 2026-03-23
 
 ### Changed
